@@ -7,7 +7,7 @@
 
 ## What is Animcraft
 
-[Animcraft](https://github.com/basefount/animcraft) (AC for short) is a collaborative universal character action resource library and animation efficiency software developed by [Basefount](https://basefount.cn/).
+[Animcraft](https://github.com/basefount/animcraft) (abbr. AC) is a collaborative universal character action resource library and animation efficiency software developed by [Basefount](https://basefount.cn/).
 
 Animcraft can make any two-legged and four-legged character animation, between different bones, different bindings, different figures, and different software, according to the key frame and controller stable mutual transfer, so you can make the animation and character become permanent Assets are stored for efficient sharing, reference, reuse, training of newcomers, and acceleration of new projects. Make your company's operational resources readily available, revitalized and inherited. At the same time, it also has many auxiliary energy efficiency and productivity functions to improve the efficiency of your animation production and remove obstacles:
 
