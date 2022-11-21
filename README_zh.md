@@ -19,6 +19,8 @@ Animcraft的可以让任意二足与四足角色动画，在不同骨骼，不�
 
 **完善的DCC与引擎软件连接**：让动画与角色数据在各种软件之间，顺畅分享、灵活转换，高效利用
 
+[Jump to english](https://github.com/basefount/animcraft/blob/main/README_zh.md)
+
 
 ## 如何安装
 

@@ -19,6 +19,7 @@ Animcraft can make any two-legged and four-legged character animation, between d
 
 **Perfect connection between DCC and engine software**: Allow animation and character data to be shared smoothly, flexibly converted, and efficiently utilized between various software
 
+[跳转到中文](https://github.com/basefount/animcraft/blob/main/README_zh.md)
 
 ## how to install
 
