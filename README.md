@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img alt="Animcraft" src="https://www.animcraft.com/static/ac_logo_color_header.5a0e5466.png">
+  <img alt="Animcraft" src="https://github.com/basefount/animcraft/blob/main/gif/logo200.png">
 </p>
 
 
@@ -26,61 +26,63 @@ Animcraft的可以让任意二足与四足角色动画，在不同骨骼，不�
 
 [安装教程](https://www.yuque.com/animcraft/cn/heva4f)
 
-[使用教程]()
+[使用教程](https://www.yuque.com/animcraft/cn/gzl6qy)
 
-[视频教程]()
+[视频教程](https://www.bilibili.com/video/BV1FZ4y1577w/?p=79&vd_source=4f1733c805680dd8ef1c880861d1a04a)
 
 [下载地址]()
+
+## 特性
 
 ### 1.动作存储
 
 Animcraft定义了一种通用动画格式，可以把maya，max，mmd，fbx等动画统一入库，一经入库，便可以在各个DCC软件中使用。
-![](https://github.com/basefount/animcraft/blob/main/action_store.gif)
+![](https://github.com/basefount/animcraft/blob/main/gif/action_store.gif)
 
 ### 2.动作复用
 
 一键发送，导入到二足角色，不管它的软件，身材，绑定，骨骼构架，目前支持Maya，3ds Max, FBX，Unreal Engine， Unity，Human IK，Blender，Cinema4D。支持丰富的导入选项例如镜像，速度，帧率，局部等
-![](https://github.com/basefount/animcraft/blob/main/action_store.gif)
+![](https://github.com/basefount/animcraft/blob/main/gif/action_store.gif)
 
-### 动作编辑
+### 3.动作编辑
 
 用户可以利用动画和表情片段，以非线性编辑方式，结合动捕与重定向，快速创作身体和表情的动画。还可以用骨骼，结合动画层、时间滑块，关键帧等系统全方位编辑动画。整个过程非破坏式，可回溯。
-![](https://github.com/basefount/animcraft/blob/main/action_store.gif)
+![](https://github.com/basefount/animcraft/blob/main/gif/animation_edit.gif)
 
-### 3.绑定转制
+### 4.绑定转制
 
 软件提供各种工作流的绑定转制功能，任意Maya绑定可以发送到Max成为CS绑定并且精确还原回动画；任何纯骨骼FBX/BVH，或者Maya绑定，都可以便捷的转制成3ds Max的Biped绑定；纯骨骼FBX或3dsMax的绑定，也可以一键生成Maya的ADV/HIK绑定；转换均保留骨骼、权重与动画。
-![](https://github.com/basefount/animcraft/blob/main/action_store.gif)
+![](https://github.com/basefount/animcraft/blob/main/gif/animation_bind.gif)
 
-### 4.游戏表情绑定
+### 5.游戏表情绑定
 
 max和maya中都提供了一套基础的游戏表情绑定工具，可以全方位解决游戏中表情的需求。并且可以把maya中绑定好的表情文件，直接转换成max的文件。控制Animcraft主软件或者maya中使用iphone进行面部捕捉。
-![](https://github.com/basefount/animcraft/blob/main/action_store.gif)
+![](https://github.com/basefount/animcraft/blob/main/gif/game_face_rig.gif)
 
-### 5.高级表情绑定
+### 6.高级表情绑定
 
 Animcraft提供一套高级表情绑定，它可以自由的定义骨骼数量，以满足游戏和影视不同的需求。本工具提供完善的权重分配工具，可以自动高质量的进行自动分配。也提供了丰富的修型工具，以满足各种绑定需求。
-![](https://github.com/basefount/animcraft/blob/main/action_store.gif)
+![](https://github.com/basefount/animcraft/blob/main/gif/advance_face_rig.gif)
 
-### 6.虚幻库
+### 7.虚幻库
 
 快速存储UE的特效、蓝图和各种资源，可以方便在不同的项目中复用。
-![](https://github.com/basefount/animcraft/blob/main/action_store.gif)
+![](https://github.com/basefount/animcraft/blob/main/gif/ue_lib.gif)
 
-### 7.资产库
+### 8.资产库
 
 Animcraft可以帮助动画师管理参考动画的视频和GIF动图资源包，这样动画师就可以更好的找到参考并且提高工作效率，同时，这些资源也可以用来分享给他人，用于培训与项目制作。支援库架构轻量级，不需要部署维护，安全可靠的管理大量的资源
-![](https://github.com/basefount/animcraft/blob/main/action_store.gif)
+![](https://github.com/basefount/animcraft/blob/main/gif/asset_lib.gif)
 
-### 8.龙息飘带
+### 9.龙息飘带
 
 采用非整数帧延迟，贝塞尔曲线衰减，模拟飘逸的飘带效果。用户可以直观的对角色的配件或飘带添加次级动画，待机自动呼吸动画。支持惯性，碰撞检测，风力重力，关键帧匹配，首尾循环动画，支持Maya，Max，大面积覆盖游戏飘带的次级动画需求
-![](https://github.com/basefount/animcraft/blob/main/action_store.gif)
+![](https://github.com/basefount/animcraft/blob/main/gif/ribbon.gif)
 
-### 9.面部捕捉
+### 10.面部捕捉
 
 可以在Animcraft和Maya中，使用Animcraft的面捕App进行捕捉，捕捉的数据可以在Animcraft主软件，Maya，Max中通用，并进行二次编辑。
-![](https://github.com/basefount/animcraft/blob/main/action_store.gif)
+![](https://github.com/basefount/animcraft/blob/main/gif/facial_capture.gif)
 
 ## 联系我们
 
@@ -98,8 +100,4 @@ woshidahuaidan2hao，Aa59410251314或zxn814182054
 
 QQ群组
 801536827
-
-
-
-
 
