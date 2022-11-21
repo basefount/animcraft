@@ -5,99 +5,108 @@
 </p>
 
 
-## 什么是Animcraft
+## What is Animcraft
 
-[Animcraft](https://github.com/basefount/animcraft)（简称AC）是[Basefount](https://basefount.cn/)研发的一个可协作的万能角色动作资源库和动画效率软件。
+[Animcraft](https://github.com/basefount/animcraft) (AC for short) is a collaborative universal character action resource library and animation efficiency software developed by [Basefount](https://basefount.cn/).
 
-Animcraft的可以让任意二足与四足角色动画，在不同骨骼，不同绑定，不同身材，不同软件之间，按照关键帧与控制器稳定互传，从而您可以把动画与角色变成了永久资产收纳起来，进行高效的分享、参考、重复利用、培训新人，新项目提速。使您公司的动作资源唾手可得，盘活与传承。同时，它还有很多附属的能效与生产力功能，为您的动画制作提高效率，扫清障碍：
+Animcraft can make any two-legged and four-legged character animation, between different bones, different bindings, different figures, and different software, according to the key frame and controller stable mutual transfer, so you can make the animation and character become permanent Assets are stored for efficient sharing, reference, reuse, training of newcomers, and acceleration of new projects. Make your company's operational resources readily available, revitalized and inherited. At the same time, it also has many auxiliary energy efficiency and productivity functions to improve the efficiency of your animation production and remove obstacles:
 
-**重定向核心**：让二足四足，表情资源，在不同骨骼、绑定、身材、软件间，按照关键帧与控制器互传
+**Redirection core**: Allow two-legged four-legged, expression resources, between different bones, bindings, figures, software, according to the key frame and the controller to transfer each other
 
-**万能角色与动作资源库**：资源3D可视化，高效组织管理，协作运用，融入日常工作，参考培训中
+**Universal character and action resource library**: 3D visualization of resources, efficient organization and management, collaborative use, integration into daily work, reference training
 
-**丰富的动画效率工具集**：重定向，实时面捕，智能动画，飘带运算，绑定转制，格式转换，非线性创作
+**Rich animation efficiency tool set**: Redirection, real-time surface capture, intelligent animation, streamer calculation, binding conversion, format conversion, nonlinear creation
 
-**完善的DCC与引擎软件连接**：让动画与角色数据在各种软件之间，顺畅分享、灵活转换，高效利用
+**Perfect connection between DCC and engine software**: Allow animation and character data to be shared smoothly, flexibly converted, and efficiently utilized between various software
 
 
-## 如何安装
+## how to install
 
-免费试用：[登录官网](https://www.animcraft.com/#/)-点击免费试用-注册-下载安装包
+Free Trial: [Log in to the official website](https://www.animcraft.com/#/)-click Free Trial-Register-Download the installation package
 
-[安装教程](https://www.yuque.com/animcraft/cn/heva4f)
+[Installation Tutorial](https://www.yuque.com/animcraft/en/heva4f)
 
-[使用教程](https://www.yuque.com/animcraft/cn/gzl6qy)
+[Tutorial](https://www.yuque.com/animcraft/en/gzl6qy)
 
-[视频教程](https://www.bilibili.com/video/BV1FZ4y1577w/?p=79&vd_source=4f1733c805680dd8ef1c880861d1a04a)
+[Video Tutorial](https://www.bilibili.com/video/BV1FZ4y1577w/?p=79&vd_source=4f1733c805680dd8ef1c880861d1a04a)
 
-[下载地址](https://github.com/basefount/animcraft/releases)
+[Download URL](https://github.com/basefount/animcraft/releases)
 
-## 特性
+## Features
 
-### 1.动作存储
+### 1. Action Storage
 
-Animcraft定义了一种通用动画格式，可以把maya，max，mmd，fbx等动画统一入库，一经入库，便可以在各个DCC软件中使用。
+Animcraft defines a general animation format, which can store maya, max, mmd, fbx and other animations in a unified manner. Once stored, it can be used in various DCC software.
+
 ![](https://github.com/basefount/animcraft/blob/main/gif/action_store.gif)
 
-### 2.动作复用
+### 2. Action reuse
 
-一键发送，导入到二足角色，不管它的软件，身材，绑定，骨骼构架，目前支持Maya，3ds Max, FBX，Unreal Engine， Unity，Human IK，Blender，Cinema4D。支持丰富的导入选项例如镜像，速度，帧率，局部等
+One-click sending, importing to biped character, no matter its software, figure, rigging, bone structure, currently supports Maya, 3ds Max, FBX, Unreal Engine, Unity, Human IK, Blender, Cinema4D. Support rich import options such as mirror, speed, frame rate, partial, etc.
+
 ![](https://github.com/basefount/animcraft/blob/main/gif/animation_reuse.gif)
 
-### 3.动作编辑
+### 3. Action Editing
 
-用户可以利用动画和表情片段，以非线性编辑方式，结合动捕与重定向，快速创作身体和表情的动画。还可以用骨骼，结合动画层、时间滑块，关键帧等系统全方位编辑动画。整个过程非破坏式，可回溯。
+Users can use animation and expression clips to quickly create body and expression animations in a non-linear editing manner, combined with motion capture and retargeting. You can also use bones, combined with animation layers, time sliders, keyframes and other systems to edit animations in all directions. The whole process is non-destructive and can be traced back.
+
 ![](https://github.com/basefount/animcraft/blob/main/gif/animation_edit.gif)
 
-### 4.绑定转制
+### 4. Binding transformation
 
-软件提供各种工作流的绑定转制功能，任意Maya绑定可以发送到Max成为CS绑定并且精确还原回动画；任何纯骨骼FBX/BVH，或者Maya绑定，都可以便捷的转制成3ds Max的Biped绑定；纯骨骼FBX或3dsMax的绑定，也可以一键生成Maya的ADV/HIK绑定；转换均保留骨骼、权重与动画。
+The software provides rigging conversion functions for various workflows. Any Maya rigging can be sent to Max to become a CS rigging and accurately restored back to animation; any pure skeleton FBX/BVH or Maya rigging can be easily converted into 3ds Biped binding of Max; binding of pure bone FBX or 3dsMax, and ADV/HIK binding of Maya can also be generated with one click; bones, weights and animations are preserved in conversion.
+
 ![](https://github.com/basefount/animcraft/blob/main/gif/animation_bind.gif)
 
-### 5.游戏表情绑定
+### 5. Game expression binding
 
-max和maya中都提供了一套基础的游戏表情绑定工具，可以全方位解决游戏中表情的需求。并且可以把maya中绑定好的表情文件，直接转换成max的文件。控制Animcraft主软件或者maya中使用iphone进行面部捕捉。
+Both max and maya provide a set of basic game expression binding tools, which can fully solve the needs of game expressions. And you can directly convert the expression files bound in maya into max files. Control Animcraft main software or use iphone in maya for facial capture.
 ![](https://github.com/basefount/animcraft/blob/main/gif/game_face_rig.gif)
 
-### 6.高级表情绑定
+### 6. Advanced expression binding
 
-Animcraft提供一套高级表情绑定，它可以自由的定义骨骼数量，以满足游戏和影视不同的需求。本工具提供完善的权重分配工具，可以自动高质量的进行自动分配。也提供了丰富的修型工具，以满足各种绑定需求。
+Animcraft provides a set of advanced expression bindings, which can freely define the number of bones to meet the different needs of games and movies. This tool provides a complete weight assignment tool, which can automatically assign high quality automatically. It also provides a wealth of modification tools to meet various binding needs.
+
 ![](https://github.com/basefount/animcraft/blob/main/gif/advance_face_rig.gif)
 
-### 7.虚幻库
+### 7. Unreal library
 
-快速存储UE的特效、蓝图和各种资源，可以方便在不同的项目中复用。
+Quickly store special effects, blueprints and various resources of UE, which can be easily reused in different projects.
+
 ![](https://github.com/basefount/animcraft/blob/main/gif/ue_lib.gif)
 
-### 8.资产库
+### 8. Asset library
 
-Animcraft可以帮助动画师管理参考动画的视频和GIF动图资源包，这样动画师就可以更好的找到参考并且提高工作效率，同时，这些资源也可以用来分享给他人，用于培训与项目制作。支援库架构轻量级，不需要部署维护，安全可靠的管理大量的资源
+Animcraft can help animators manage reference animation video and GIF animation resource packs, so that animators can better find references and improve work efficiency. At the same time, these resources can also be used to share with others for training and project production . The support library architecture is lightweight, does not require deployment and maintenance, and manages a large number of resources safely and reliably
+
 ![](https://github.com/basefount/animcraft/blob/main/gif/asset_lib.gif)
 
-### 9.龙息飘带
+### 9. Dragon Breath Ribbon
 
-采用非整数帧延迟，贝塞尔曲线衰减，模拟飘逸的飘带效果。用户可以直观的对角色的配件或飘带添加次级动画，待机自动呼吸动画。支持惯性，碰撞检测，风力重力，关键帧匹配，首尾循环动画，支持Maya，Max，大面积覆盖游戏飘带的次级动画需求
+Using non-integer frame delay and Bezier curve attenuation to simulate elegant streamer effect. Users can intuitively add secondary animations to the character's accessories or streamers, and automatically breathe animations in standby. Support inertia, collision detection, wind gravity, key frame matching, end-to-end loop animation, support Maya, Max, large area coverage of secondary animation requirements of game streamers
+
 ![](https://github.com/basefount/animcraft/blob/main/gif/ribbon.gif)
 
-### 10.面部捕捉
+### 10. Facial Capture
 
-可以在Animcraft和Maya中，使用Animcraft的面捕App进行捕捉，捕捉的数据可以在Animcraft主软件，Maya，Max中通用，并进行二次编辑。
+In Animcraft and Maya, you can use Animcraft's face capture software to capture, and the captured data can be shared in Animcraft's main software, Maya, Max, and edited again.
+
 ![](https://github.com/basefount/animcraft/blob/main/gif/facial_capture.gif)
 
-## 联系我们
+## contact us
 
-论坛
+forum
 http://basefount.proboards.com
 
-新浪微博
+Sina Weibo
 https://weibo.com/basefount
 
-BiliBili空间
+BiliBili space
 https://space.bilibili.com/61970599
 
-加微信/微信群
-woshidahuaidan2hao，Aa59410251314或zxn814182054
+Add WeChat/WeChat group
+woshidahuaidan2hao, Aa59410251314 or zxn814182054
 
-QQ群组
+QQ group
 801536827
 
